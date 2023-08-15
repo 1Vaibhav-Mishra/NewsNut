@@ -1,0 +1,46 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": { "id": "independent", "name": "Independent" },
+      "author": "Namita Singh",
+      "title": "UK weather to be wet and windy this weekend before Met Office predicts return of heat",
+      "description": "Some parts could  see maximum of 26C but it will be wet and windy for many this weekend",
+      "url": "http://www.independent.co.uk/weather/uk-weather-today-rain-heat-b2391910.html",
+      "urlToImage": "https://static.independent.co.uk/2023/08/12/06/GettyImages-1607278721.jpg?quality=75&width=1200&auto=webp",
+      "publishedAt": "2023-08-12T05:45:56Z",
+      "content": "For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails\r\nSign up to our free breaking news emails\r\nSome parts of the UK could see temperatures soaring … [+2917 chars]"
+    },
+    {
+      "source": { "id": "cbc-news", "name": "CBC News" },
+      "author": "CBC News",
+      "title": "Why Maui's deadly wildfires spread so quickly | CBC News",
+      "description": "Strong winds from an offshore hurricane, combined with dry, hot weather and the proliferation of non-native grasses on the Hawaiian island of Maui created the conditions for the deadly and devastating wildfires, experts say.",
+      "url": "http://www.cbc.ca/news/climate/maui-fires-explainer-1.6932886",
+      "urlToImage": "https://i.cbc.ca/1.6932778.1691688970!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/hawaii-fires.jpg",
+      "publishedAt": "2023-08-12T00:07:22.7661991Z",
+      "content": "The wildfires that rapidly swept across Maui this week led to thousands of evacuations, burnt-out homes and the deaths of at least 55 people.\r\nThe fires started Tuesday and took the island by surpris… [+3932 chars]"
+    },
+    {
+      "source": { "id": "news24", "name": "News24" },
+      "author": "news24",
+      "title": "Saturday's weather: Fine, cool conditions kick off the weekend",
+      "description": "The South African Weather Service says it will be a fine and cool start to the weekend.",
+      "url": "https://www.news24.com/news24/southafrica/news/saturdays-weather-fine-cool-conditions-kick-off-the-weekend-20230811-3",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/9011/916928c6b2dd4c838258b345243f44d2.jpg",
+      "publishedAt": "2023-08-11T18:27:02+00:00",
+      "content": "The South African Weather Service says it will be a fine and cool start to the weekend.\r\nThe weather in your region\r\nGauteng will be partly cloudy and cool to warm.\r\nThe expected UVB sunburn index is… [+1630 chars]"
+    },
+    {
+      "source": { "id": "time", "name": "Time" },
+      "author": "Solcyre Burga",
+      "title": "How Extreme Weather Is Affecting Small Farmers Across the U.S.",
+      "description": "Extreme weather patterns are posing difficulties across the agricultural community.",
+      "url": "http://time.com/6303858/extreme-weather-farmers-effects/",
+      "urlToImage": "https://api.time.com/wp-content/uploads/2023/08/kansas-dairy-farmer.jpg?quality=85",
+      "publishedAt": "2023-08-11T11:00:00Z",
+      "content": "Every morning at 5 a.m., Jason Schmidt, owner of Grazing Plains Farm LLC., a small dairy farm based in Whitewater, Kans., starts his first milking of the day. The 42-year-old fifth generation farmer … [+9937 chars]"
+    }
+  ]
+}
